@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "totalResults": 31,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Zachary Cohen, Nick Valencia, Jason Morris",
+      "title": "EXCLUSIVE: Willis, Wade and others expected to be subpoenaed for hearing on Fulton County DA affair allegations - CNN",
+      "description": "A current and former law partner to Nathan Wade, the special prosecutor leading the 2020 election subversion case in Georgia, have been told to expect a subpoena to testify at a hearing next month on whether he and the district attorney who brought the case s…",
+      "url": "https://www.cnn.com/2024/01/25/politics/fulton-county-subpoenas-willis-wade-election-subversion/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-01-20t180247z-1106084016-rc23o2ap6cf0-rtrmadp-3-usa-trump-georgia.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-26T02:04:00Z",
+      "content": "A current and former law partner to Nathan Wade, the special prosecutor leading the 2020 election subversion case in Georgia, have been told to expect a subpoena to testify at a hearing next month on… [+6282 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Falcons reach deal with Rams defensive coordinator Raheem Morris as their new head coach - CBS Sports",
+      "description": "Morris is returning to Atlanta",
+      "url": "https://www.cbssports.com/nfl/news/falcons-reach-deal-with-rams-defensive-coordinator-raheem-morris-as-their-new-head-coach/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/25/75064379-28c0-4190-a10e-f8a10b01248d/thumbnail/1200x675/388134e352e4df95b9bf5bc8ec87f7af/morris-jpeg.jpg",
+      "publishedAt": "2024-01-26T01:53:40Z",
+      "content": "The Atlanta Falcons have hired former Los Angeles Rams defensive coordinator Raheem Morris as their head coach. \r\nMorris had an in-person meeting scheduled with the Seattle Seahawks on Friday. He met… [+1756 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Manu Raju, Melanie Zanona, Lauren Fox, Ted  Barrett",
+      "title": "GOP senators seethe as Trump blows up delicate immigration compromise - CNN",
+      "description": "Senior Senate Republicans are furious that Donald Trump may have killed an emerging bipartisan deal over the southern border, depriving them of a key legislative achievement on a pressing national priority and offering a preview of what’s to come with Trump a…",
+      "url": "https://www.cnn.com/2024/01/25/politics/gop-senators-angry-trump-immigration-deal/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1756774856.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-26T01:52:00Z",
+      "content": "Senior Senate Republicans are furious that Donald Trump may have killed an emerging bipartisan deal over the southern border, depriving them of a key legislative achievement on a pressing national pr… [+8398 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Samantha Delouya, Jordan Valinsky",
+      "title": "Vince McMahon accused of trafficking former WWE employee in new lawsuit - CNN",
+      "description": "A former WWE staffer has accused the company’s founder, Vince McMahon, of sexual assault, trafficking and physical abuse in a lawsuit filed Thursday.",
+      "url": "https://www.cnn.com/2024/01/25/business/vince-mcmahon-accused-trafficking-lawsuit/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1955423653.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-26T01:32:00Z",
+      "content": "Editors note: This story contains disturbing material.\r\nA former WWE staffer has accused the companys founder, Vince McMahon, of sexual assault, trafficking and physical abuse in a lawsuit filed Thur… [+7261 chars]"
+    }
+   
+  ]
+}
