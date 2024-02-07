@@ -140,10 +140,10 @@ export default class News extends Component {
   render() {
     return (
       <>
-        <h1 className="text-center" style={{marginTop : '80px'}}>
+        <h2 className="text-center" style={{marginTop : '80px'}}>
           NewsMonkey - Top {this.capitaliseLetter(this.props.category)}{" "}
           Headlines
-        </h1>
+        </h2>
         <div className = "text-center">{this.state.loading && <Spinner/>}</div>
         <InfiniteScroll
           dataLength={this.state.articles.length}
